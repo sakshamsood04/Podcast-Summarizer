@@ -1,0 +1,24 @@
+# Podcast Summary
+
+Source: https://youtube.com/shorts/_S-KnTnGgsY?feature=shared
+
+## Summary
+
+The use of technology to automate referee calls in sports is gaining popularity, with cricket being the pioneering sport in this trend through the creation of the Hawkeye system by Dr. Paul Hawkins in 1999. This system uses multiple cameras to precisely calculate the trajectory of the ball, particularly helping with leg-before-wicket calls that were previously subjective. Initially used for TV coverage, teams can now request a review by a third umpire using Hawkeye footage for disputed calls. This technology has become widespread in cricket and has influenced the implementation of similar systems in various other sports, revolutionizing the way contentious decisions are made.
+
+## Key Topics
+
+- ball
+- hit
+- hawkeye
+- sports
+- sport
+
+## Speaker Contributions
+
+### Speaker 1
+
+- More and more sports are automating referee calls. I made a video on this recently where I talked about it in tennis and soccer, but I didn't mention the sport where it all began, cricket. And I should have, because it completely changed the sports world.
+- The story starts with this guy, Dr. Paul Hawkins. In 1999, he's a cricket fan and a player, and he just got his PhD in artificial intelligence. Like lots of fans, he's frustrated by bad calls in cricket, particularly leg-before-wicket calls, which are tricky because they involve the umpire predicting whether the ball would have hit the wicket if it hadn't hit the batsman's leg. It's a notoriously subjective call, but Hawkins realized that it didn't have to be. You can use cameras to measure the path of the ball and then precisely calculate whether it actually would have hit the wicket, much better than humans can. He creates that system, which we now call Hawkeye.
+- Hawkeye uses at least six cameras around the cricket field to track the ball and then create a three-dimensional representation of its path. At first, Hawkeye was just used in TV coverage, but later teams were allowed to ask a third umpire to review Hawkeye footage if there was a leg-before-wicket call that they disagreed with. And now this tech is a staple in cricket, and it continues to shape basically any other sport that you love.
+
